@@ -1,4 +1,4 @@
-# Early-Stage-Cancer-Prediction
+# PRATHAM
 
 ![cancer_detection_project_image](https://github.com/user-attachments/assets/e97022a0-2f09-44be-a7e2-5b1123851ca0)
 
